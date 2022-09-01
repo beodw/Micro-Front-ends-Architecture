@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "import-map-deployer": "^4.5.5"
+  }
+}

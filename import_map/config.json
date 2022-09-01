@@ -1,0 +1,12 @@
+{
+    "urlSafeList": [
+        "http://127.0.0.1/"
+    ],
+    "manifestFormat": "importmap",
+    "locations": {
+        "default": "import-map.json",
+        "prod": "import-map.json",
+        "test": "import-map-test.json"
+    },
+    "port": 5001
+}
