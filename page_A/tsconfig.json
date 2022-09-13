@@ -4,7 +4,7 @@
     "jsx": "react-jsx",
     "declarationDir": "dist"
   },
-  "files": ["src/acs-page-A.tsx"],
+  "files": ["src/acs-page-A.js"],
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test*"]
 }

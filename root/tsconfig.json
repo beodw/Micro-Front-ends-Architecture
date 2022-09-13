@@ -1,6 +1,6 @@
 {
   "extends": "ts-config-single-spa",
-  "files": ["src/acs-root-config.ts"],
+  "files": ["src/acs-root-config.js"],
   "compilerOptions": {
     "jsx": "react-jsx",
     "declarationDir": "dist"
